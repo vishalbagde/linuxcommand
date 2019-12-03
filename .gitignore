@@ -1,1 +1,4 @@
-error.log
+*.log
+error/
+sales/
+

@@ -3,4 +3,5 @@ while read line
 do
 	echo $line
 
-done < test.sh
+done < cat2.sh
+echo $0

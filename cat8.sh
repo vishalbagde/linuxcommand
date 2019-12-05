@@ -3,5 +3,7 @@ echo "this is new file system"
 echo "this is testing change"
 echo "add line from local"
 
+commit 2 from local server
+
 commit 1 from online server
 
